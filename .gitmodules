@@ -1,0 +1,3 @@
+[submodule "data_mgmt/covidtracker_func/covidcommons"]
+	path = data_mgmt/covidtracker_func/covidcommons
+	url = https://github.com/jeanimal/covidcommons
