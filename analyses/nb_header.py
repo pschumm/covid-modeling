@@ -1,6 +1,8 @@
 # Initialize Stata
+import contextlib
 from pystata import config
-config.init('mp', splash=False)
+with contextlib.redirect_stdout(None):
+    config.init('mp', splash=False)
 print(config._get_stata_version_str())
 
 # Define function for displaying HTML table
