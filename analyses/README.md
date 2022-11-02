@@ -1,6 +1,4 @@
-# Analysis Notebooks
-
-## Analysis done in Python
+# Replication using Python
 
 The notebook [CFR.ipynb](./CFR.ipynb) replicates several of the original
 analyses in
