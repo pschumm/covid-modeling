@@ -3,3 +3,6 @@ by email:
 
 - kaggle_imputed_and_lagged.csv (2021-03-17)
 - kaggle_imputed_and_lagged_weds.csv (2021-03-20)
+
+
+The file covid-cdc-states.csv consist of list of 38 states with either no reported deaths or the same number of deaths as cases
