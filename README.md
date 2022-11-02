@@ -1,3 +1,8 @@
+# Contents
+
+This repository contains data and code used to generate results appearing in
+[Racial and ethnic disparities in the observed COVID-19 case fatality rate among the U.S. population](https://doi.org/10.1016/j.annepidem.2022.07.010).
+
 # Viewing analytic notebooks
 
 It appears that GitHub may be having some trouble rendering the plots in the
